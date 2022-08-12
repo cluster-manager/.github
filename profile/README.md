@@ -11,15 +11,15 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 ### 🧙最近重要事务🧙
-
-# 1. app模块 （引入kyverno）
-# 2. cloud模块 - 对接aliyun/huaweiyun
-# 3. 多集群开源
-
+<!--
+ 1. app模块 （引入kyverno）
+ 2. cloud模块 - 对接aliyun/huaweiyun
+ 3. 多集群开源
+-->
 #### 组织背景🌈
-
-# > 这个组织主要是围绕[sealyun](https://www.sealyun.com)来工作，主要包括后端、前端、以及CI相关的核心项目。
-
+<!--
+ > 这个组织主要是围绕[sealyun](https://www.sealyun.com)来工作，主要包括后端、前端、以及CI相关的核心项目。
+-->
 #### 使用规范👩‍💻
 
 
